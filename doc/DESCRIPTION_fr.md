@@ -1,10 +1,13 @@
-Une application de liste de tâches stupidement simple qui fonctionne tout simplement. Pas de base de données complexe, pas de fonctionnalités inutiles - juste des choses à faire.
+Une application de bloc-notes moderne, simple, sans authentification (sauf si vous le souhaitez !), avec fonctionnalité d'enregistrement automatique et prise en charge du mode sombre.
 
 ### Caractéristiques
 
-    ✨ Interface propre et minimale
-    🌓 Mode sombre/lumineux avec détection des préférences du système
-    💾 Stockage sur fichier - les todos persistent entre les sessions
-    📱 Conception entièrement réactive
-    🚀 Rapide et léger
-    🔒 Protection par code PIN (4-10 chiffres si activé)
+    Interface simple et propre
+    Sauvegarde automatique
+    Support du mode sombre
+    Design réactif
+    Prise en charge de Docker
+    Protection par code PIN en option (4 à 10 chiffres)
+    Stockage sur fichier
+    Persistance des données entre les mises à jour
+    
